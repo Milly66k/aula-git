@@ -1,2 +1,1 @@
-console.log("Aprendendo git!!!!") 
-console.log("oi")
+console.log("Aprendendo git!!!!")  
